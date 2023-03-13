@@ -1,1 +1,4 @@
 
+Condurat Victor,      Pricop George                - Setare Github, Reverse Engineering(sub3)
+Baltatescu Ana-Maria, Gherasim Antonie Stefan      - Setare Trello, Forward Engineering(sub2)
+Iftime Cristina,      Diana Mihalache              - Modelare C4, sub4
